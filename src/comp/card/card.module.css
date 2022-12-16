@@ -1,0 +1,22 @@
+.cardwrapper {
+    border: 1px solid gray;
+    width: 400px;
+    padding: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    
+};
+
+.card_container .cardwrapper .dltbtn {
+    /* position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 0;
+    right: 0; */
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: red;
+    padding: 5px;
+    background-color: red !important;
+};
